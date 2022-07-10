@@ -1,0 +1,4 @@
+repository "Sci-Fi Tech@Leonardo_Lima_Studio@cloud"
+  path "/"
+    br "/main"
+    co "/main"
